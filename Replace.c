@@ -1,3 +1,5 @@
+// Copyright (c) 2026 Марченко Даниил
+
 #include <stdio.h>
 #include <string.h>
 
