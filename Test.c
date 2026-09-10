@@ -1,3 +1,5 @@
+// Copyright (c) 2026 Марченко Даниил
+
 #include <stdio.h>
 #include <stdlib.h>
 #define PrintMemory printf("%p %i\n%p %i\n%p %p %i\n", &Variable1, Variable1, &Variable2, Variable2, &Pointer, Pointer, *Pointer);
